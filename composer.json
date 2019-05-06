@@ -1,0 +1,12 @@
+{
+    "name": "kentleigh/logtomysql",
+    "require": {
+        "josegonzalez/dotenv": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Kentleigh English",
+            "email": "kentleigh@gmx.com"
+        }
+    ]
+}
